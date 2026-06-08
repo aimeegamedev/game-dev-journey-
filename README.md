@@ -5,7 +5,7 @@ I am an aspiring game developer currently studying and preparing for a career in
 - Learn C#
 - Learn Unity
 - Build my first game
-- Create a professional protfolio
+- Create a professional portfolio
 - Work in the game industry
 ## Projects
 Projects will be added here as I continue learning and building.
